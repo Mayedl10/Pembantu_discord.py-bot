@@ -1,0 +1,22 @@
+Help for Pembantu's commands:
+
+> ?ping
+    no further context required
+
+> ?8ball [Question]
+    outputs an answer to a yes/no question
+
+> ?purge [Amount]
+    removes previously sent messages. Requires message managing permission to use.
+
+> ?help
+    no further context required. shows this message
+
+> ?tetris
+    no further context required, starts a game of tetris
+
+> ?dog
+    no further context required, send an image of a cute doggo
+
+
+||The economy features can be viewed with ?help_economy||

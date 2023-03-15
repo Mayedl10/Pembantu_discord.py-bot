@@ -1,0 +1,22 @@
+Help for Pembantu's Economy features
+
+> ?Work
+    no further context required, gives the author money, 1 hour cooldown
+
+> ?Shop
+    no further context required, shows the shop
+
+> ?balance
+    no further context required, shows the author's money
+
+> ?Withdraw [amount]
+    transfers [amount] coins from the bank, to the user's wallet
+
+> ?Deposit [amount]
+    transfers [amount] coins from the wallet, to the user's bank
+
+> ?Buy [item] [amount, default = 1]
+    buys [amount] [item] with the money from the wallet
+
+> ?Bag
+    no further context required, shows a user's items
